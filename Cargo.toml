@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT"
 license_file = "LICENSE"
 description = "A reverse polish calculator command line tool."
-repository = "https://github.com/lillycat332/dc-rs"
+repository = "https://github.com/lillycat332/dc-cli"
 authors = ["Lilly Cham"]
 homepage = "https://haskell.gay"
 
